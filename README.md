@@ -5,9 +5,9 @@
   
 ![banner (2)](./Assets/logo-white.png)
 
-  <p align="center">
-    Graphyte. is a Python-based graphing application built with PyQt6 and Matplotlib inspired by GeoGebra, designed to provide users with an intuitive interface for creating and visualizing mathematical functions and data sets.
-  </p>
+<p align="center">
+ MashaGebra Plotter is a Python-based graphing application built with PySide2 and Matplotlib, designed to provide users with an intuitive interface for visualizing mathematical functions with customizable x-axis ranges.
+</p>
 
   <a style="text-decoration:none">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> &nbsp;
