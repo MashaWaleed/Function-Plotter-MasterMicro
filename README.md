@@ -20,7 +20,6 @@
 
 The MashaGebra Plotter features a clean, intuitive interface with a dark theme for comfortable viewing:
 
-[Insert screenshot of the GUI here]
 
 The interface consists of:
 - A left panel for inputting functions and range values
@@ -49,11 +48,11 @@ The interface consists of:
 Here's an example of how to use MashaGebra Plotter:
 
 1. Click "Add Function" to create a new function input.
-2. Enter the function "x^2" in the f(x) field.
-3. Set x min to "-5" and x max to "5".
+2. Enter the function "log10(x^2) + sqrt(abs(x))" in the f(x) field.
+3. Set x min to "1" and x max to "10".
 4. Click "Plot" to visualize the function.
 
-[Insert screenshot of the plotted x^2 function]
+![Description of the image](./Assets/work.png)
 
 ## Error Example
 
@@ -66,7 +65,9 @@ Here's an example that would result in an error:
 
 This will result in an error message because the function 1/x is undefined at x=0, which is within the specified range.
 
-[Insert screenshot of the error message]
+![Description of the image](./Assets/wrong.png)
+
+
 
 ## Function Plotter Script Explanation
 
