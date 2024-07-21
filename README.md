@@ -28,6 +28,9 @@ The interface consists of:
 - A toggle button to show/hide the left panel
 - Buttons for adding functions, plotting, and saving the graph
 
+![Description of the image](./Assets/main.png)
+
+
 ## Features
 
 - Plot multiple functions simultaneously
@@ -37,6 +40,9 @@ The interface consists of:
 - Save plotted graphs as PNG files
 - Input validation to prevent errors
 - Support for common mathematical functions (sin, cos, tan, exp, sqrt, log10, abs)
+
+![Description of the image](./Assets/main2.png)
+![Description of the image](./Assets/saving.png)
 
 ## Working Example
 
