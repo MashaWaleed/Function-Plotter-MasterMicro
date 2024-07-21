@@ -103,6 +103,8 @@ The script uses PySide2 for the GUI and Matplotlib for plotting, providing a sea
 
 The `test_function_plotter.py` script contains automated tests for MashaGebra Plotter using pytest and pytest-qt. Here's an overview of the test suite:
 
+![Description of the image](./Assets/test.png)
+
 1. **Fixtures**:
    - `app`: Creates a QApplication instance for testing.
    - `window`: Creates an instance of FunctionPlotter for each test.
